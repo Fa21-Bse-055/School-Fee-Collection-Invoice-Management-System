@@ -39,7 +39,7 @@
         </div>
 
         <!-- Buttons -->
-        <button class="btn btn-success">create Invoice</button>
+        <button class="btn btn-success">Generate Invoice</button>
 
         <a href="{{ route('invoices.index') }}" class="btn btn-secondary ms-2">Cancel</a>
     </form>
